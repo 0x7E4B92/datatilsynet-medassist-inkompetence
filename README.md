@@ -79,7 +79,7 @@ Obduktionens konklusion: Tre inputs. Tre systemnedbrud. Nul juridisk analyse.
 
 At modtage en afgørelse fra Christine Børrum er forbundet med den samme dybe, forudsigelige træthed, man føler over for en defekt kaffemaskine — en maskine, der insisterer på, at den har brygget kaffe, mens den blot har gylpet lunkent affaldsvand ud over gulvet.
 
-Denne slags inkompetence fortjener et museum. Da ingen ville bygge det, byggede jeg mit eget.
+Systemet svigtede ikke, fordi det var korrupt. Det svigtede, fordi den person, der skulle være dets hjerne, var en tom algoritme i en dyr kjole.
 
 ---
 
